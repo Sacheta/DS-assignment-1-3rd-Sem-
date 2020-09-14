@@ -26,12 +26,12 @@ void sel(void){
     case 3:
         bubble_sort();
         break;
-   /* case 4:
+    case 4:
         linear_search();
         break;
     case 5:
         bbinary_search();
-        break;        */
+        break;        
     default:
         cout<<"Invalid Input!"<<endl;
     }
